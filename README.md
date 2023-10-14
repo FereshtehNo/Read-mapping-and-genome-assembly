@@ -53,6 +53,11 @@ perform qualitycontrol, create genome assemblies, and conduct read mapping and
 variant calling. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Languages Used
+
+Linux Commands and R Packages 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
