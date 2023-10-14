@@ -65,18 +65,13 @@ variant calling.
 * sra
   ```sh
   prefetch SRR8185316.sra
-  ```
-* fastq-dump
-  ```sh
-  fastq-dump SRR8185316.sra
- 
-  * sra
-  ```sh
   prefetch  SRR10538956.sra
   ```
 * fastq-dump
   ```sh
+  fastq-dump SRR8185316.sra
   fastq-dump  SRR10538956.sra
+ 
  
   ```
 ### Installation
