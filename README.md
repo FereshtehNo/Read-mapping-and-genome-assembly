@@ -14,6 +14,7 @@
     <br />
   </p>
 </div>
+![Alt text](logo.PNG)
 
 
 
@@ -106,7 +107,7 @@ Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Alt text](logo.PNG)
+
 
 
 
